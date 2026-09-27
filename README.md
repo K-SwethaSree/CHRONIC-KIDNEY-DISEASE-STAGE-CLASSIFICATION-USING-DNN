@@ -196,7 +196,7 @@ The current application includes:
 
 ## 🎥 Project Demo
 
-
+[▶️ Watch the CKD Project Demo] (https://drive.google.com/file/d/1_n2bctECi4EC3Hyoe9HYRnNgb3XR2_dA/view?usp=sharing)
 
 ## 🛠️ Technologies Used
 
@@ -278,6 +278,3 @@ The project can be further improved by:
 * Adding model explainability features
 * Improving the visualization of prediction results
 * Integrating additional healthcare resources
-
-**Department:** CSE – Data Science
-Malla Reddy Engineering College for Women
