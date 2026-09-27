@@ -196,7 +196,7 @@ The current application includes:
 
 ## 🎥 Project Demo
 
-[▶️ Watch the CKD Project Demo] (https://drive.google.com/file/d/1_n2bctECi4EC3Hyoe9HYRnNgb3XR2_dA/view?usp=sharing)
+[▶️ Watch the CKD Project Demo] (https://drive.google.com/file/d/1oWLtebL9GH9N_6vS6sEa38YORPVGCb3o/view?usp=sharing)
 
 ## 🛠️ Technologies Used
 
